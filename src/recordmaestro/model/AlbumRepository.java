@@ -8,6 +8,8 @@ import java.util.List;
  * persistent one (e.g. OracleCoffeeRepository) implements the same interface,
  * with no methods added, and is swapped in by changing one line of Main.
  * AlbumRepository
+ * @author Juna
+ * @author Lucky
  */
 public interface AlbumRepository {
     List<Album> findAll();

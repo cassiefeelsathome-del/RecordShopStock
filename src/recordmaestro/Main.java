@@ -11,6 +11,8 @@ import java.util.List;
  *
  * In M3 this file becomes the Swing launcher; this console demo can be kept
  * as ConsoleMain.java.
+ * @author Juna
+ * @author Lucky
  */
 
 public class Main {

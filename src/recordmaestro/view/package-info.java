@@ -4,6 +4,8 @@
 2.
 * Rule (brief 2.4): nothing here imports java.sql or names a
 repository class.
+* @author Juna
+* @author Lucky
 */
 
 package recordmaestro.view;

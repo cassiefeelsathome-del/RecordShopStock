@@ -7,6 +7,8 @@ import java.util.List;
  * Stores albums in an ArrayList and nothing else; everything is lost when the
  * program ends. Written first (brief 2.2) so the View and Controller can be
  * built in M3 before any database exists - and kept as the demo fallback.
+ * @author Juna
+ * @author Lucky
  */
 
 

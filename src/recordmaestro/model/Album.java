@@ -7,6 +7,8 @@ package recordmaestro.model;
  * and whether it is instock, with a strentch goal of a stock. ;
  * 
  * Album
+ * @author Juna
+ * @author Lucky
  */
 
 public class Album {
